@@ -25,6 +25,7 @@
 }
 
 .header__logo {
+  display: block;
   justify-self: center;
 }
 
